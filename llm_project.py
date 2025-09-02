@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""llm-project.ipynb
+
 
 # 1) استيراد المكتبات
 !pip install transformers torch pandas openpyxl --quiet
